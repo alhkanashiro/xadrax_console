@@ -1,6 +1,6 @@
 ﻿using System;
 using tabuleiro;
-using xadrex_console;
+using xadrex;
 
 namespace xadrex_console
 {
