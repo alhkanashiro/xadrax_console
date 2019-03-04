@@ -1,5 +1,4 @@
 C:\Users\alhka\Desktop\UdemyCSharp\xadrex_console\xadrex_console\bin\Debug\xadrex_console.exe.config
-C:\Users\alhka\Desktop\UdemyCSharp\xadrex_console\xadrex_console\obj\Debug\xadrex_console.csprojResolveAssemblyReference.cache
 C:\Users\alhka\Desktop\UdemyCSharp\xadrex_console\xadrex_console\bin\Debug\xadrex_console.exe
 C:\Users\alhka\Desktop\UdemyCSharp\xadrex_console\xadrex_console\bin\Debug\xadrex_console.pdb
 C:\Users\alhka\Desktop\UdemyCSharp\xadrex_console\xadrex_console\obj\Debug\xadrex_console.exe
